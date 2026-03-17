@@ -2,8 +2,7 @@
 *.md
 *.docx
 
-# Claude settings
-.claude/
+
 
 # Python
 __pycache__/
