@@ -1,0 +1,31 @@
+# Documentation
+*.md
+*.docx
+
+# Claude settings
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Data (large files - optional to exclude)
+# data/raw/
+# data/synthetic_patients/
+
+# Models (large)
+models/*.bin
+models/*.safetensors
+
+# Vector DB index (large)
+vectordb/*.index
+vectordb/*.faiss

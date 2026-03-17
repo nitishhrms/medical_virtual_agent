@@ -1,0 +1,2117 @@
+[
+  {
+    "patient_id": "P0001",
+    "name": "Patient_1",
+    "date_of_birth": "1943-06-18",
+    "age": 82,
+    "gender": "Non-binary",
+    "blood_type": "A-",
+    "conditions": [
+      "Chronic Pain",
+      "Type 2 Diabetes"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "lisinopril",
+      "omeprazole",
+      "albuterol"
+    ],
+    "allergies": [],
+    "notes": "Patient has chronic pain, type 2 diabetes. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0002",
+    "name": "Patient_2",
+    "date_of_birth": "1975-06-10",
+    "age": 50,
+    "gender": "Male",
+    "blood_type": "O-",
+    "conditions": [
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "loratadine",
+      "metoprolol"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has allergic rhinitis. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0003",
+    "name": "Patient_3",
+    "date_of_birth": "1963-10-12",
+    "age": 62,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "conditions": [
+      "Hypertension",
+      "High Cholesterol",
+      "Heart Failure"
+    ],
+    "current_medications": [
+      "glipizide",
+      "ibuprofen",
+      "furosemide",
+      "cetirizine"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has hypertension, high cholesterol, heart failure. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0004",
+    "name": "Patient_4",
+    "date_of_birth": "1964-12-12",
+    "age": 61,
+    "gender": "Male",
+    "blood_type": "A+",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Chronic Pain",
+      "GERD",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "albuterol",
+      "atorvastatin",
+      "insulin",
+      "aspirin",
+      "levothyroxine"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has atrial fibrillation, chronic pain, gerd, arthritis. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0005",
+    "name": "Patient_5",
+    "date_of_birth": "1956-05-21",
+    "age": 69,
+    "gender": "Non-binary",
+    "blood_type": "A-",
+    "conditions": [
+      "Depression",
+      "Epilepsy",
+      "Allergic Rhinitis",
+      "Heart Failure"
+    ],
+    "current_medications": [
+      "ibuprofen",
+      "albuterol"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has depression, epilepsy, allergic rhinitis, heart failure. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0006",
+    "name": "Patient_6",
+    "date_of_birth": "1975-12-29",
+    "age": 50,
+    "gender": "Female",
+    "blood_type": "O+",
+    "conditions": [
+      "Type 2 Diabetes",
+      "COPD",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "acetaminophen",
+      "levothyroxine",
+      "aspirin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has type 2 diabetes, copd, chronic pain. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0007",
+    "name": "Patient_7",
+    "date_of_birth": "1965-06-17",
+    "age": 60,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "conditions": [
+      "GERD",
+      "Hypertension",
+      "Allergic Rhinitis",
+      "Atrial Fibrillation"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "omeprazole"
+    ],
+    "allergies": [],
+    "notes": "Patient has gerd, hypertension, allergic rhinitis, atrial fibrillation. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0008",
+    "name": "Patient_8",
+    "date_of_birth": "1944-01-03",
+    "age": 82,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "conditions": [
+      "Heart Failure",
+      "Hypertension"
+    ],
+    "current_medications": [
+      "ibuprofen"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has heart failure, hypertension. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0009",
+    "name": "Patient_9",
+    "date_of_birth": "1995-05-11",
+    "age": 30,
+    "gender": "Male",
+    "blood_type": "B-",
+    "conditions": [
+      "Asthma",
+      "Allergic Rhinitis",
+      "Type 2 Diabetes"
+    ],
+    "current_medications": [
+      "ibuprofen",
+      "amlodipine",
+      "omeprazole",
+      "loratadine",
+      "gabapentin"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has asthma, allergic rhinitis, type 2 diabetes. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0010",
+    "name": "Patient_10",
+    "date_of_birth": "1971-02-05",
+    "age": 55,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "furosemide",
+      "aspirin",
+      "levothyroxine"
+    ],
+    "allergies": [],
+    "notes": "Patient has chronic pain. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0011",
+    "name": "Patient_11",
+    "date_of_birth": "1971-12-18",
+    "age": 54,
+    "gender": "Male",
+    "blood_type": "A-",
+    "conditions": [
+      "Hypothyroidism",
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "prednisone",
+      "albuterol",
+      "omeprazole",
+      "warfarin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has hypothyroidism, allergic rhinitis. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0012",
+    "name": "Patient_12",
+    "date_of_birth": "2005-10-13",
+    "age": 20,
+    "gender": "Non-binary",
+    "blood_type": "AB-",
+    "conditions": [
+      "Anxiety",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "loratadine",
+      "lisinopril",
+      "warfarin",
+      "albuterol"
+    ],
+    "allergies": [],
+    "notes": "Patient has anxiety, epilepsy. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0013",
+    "name": "Patient_13",
+    "date_of_birth": "1990-06-06",
+    "age": 35,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "GERD",
+      "Asthma",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "metformin",
+      "levothyroxine",
+      "prednisone",
+      "sertraline"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has gerd, asthma, high cholesterol. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0014",
+    "name": "Patient_14",
+    "date_of_birth": "1988-07-15",
+    "age": 37,
+    "gender": "Female",
+    "blood_type": "B+",
+    "conditions": [
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "atorvastatin",
+      "omeprazole",
+      "gabapentin",
+      "metformin",
+      "lisinopril"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has allergic rhinitis. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0015",
+    "name": "Patient_15",
+    "date_of_birth": "1960-12-01",
+    "age": 65,
+    "gender": "Male",
+    "blood_type": "O+",
+    "conditions": [
+      "Type 2 Diabetes",
+      "GERD"
+    ],
+    "current_medications": [
+      "levothyroxine"
+    ],
+    "allergies": [],
+    "notes": "Patient has type 2 diabetes, gerd. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0016",
+    "name": "Patient_16",
+    "date_of_birth": "1946-07-05",
+    "age": 79,
+    "gender": "Non-binary",
+    "blood_type": "O+",
+    "conditions": [
+      "Anxiety",
+      "Asthma",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "aspirin",
+      "acetaminophen"
+    ],
+    "allergies": [],
+    "notes": "Patient has anxiety, asthma, hypothyroidism. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0017",
+    "name": "Patient_17",
+    "date_of_birth": "2007-05-11",
+    "age": 18,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "albuterol",
+      "levothyroxine"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has high cholesterol. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0018",
+    "name": "Patient_18",
+    "date_of_birth": "1982-08-12",
+    "age": 43,
+    "gender": "Non-binary",
+    "blood_type": "O-",
+    "conditions": [
+      "Hypertension",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "warfarin",
+      "metoprolol"
+    ],
+    "allergies": [],
+    "notes": "Patient has hypertension, chronic pain. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0019",
+    "name": "Patient_19",
+    "date_of_birth": "1996-03-15",
+    "age": 30,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "conditions": [
+      "Hypertension",
+      "Epilepsy",
+      "Asthma"
+    ],
+    "current_medications": [
+      "cetirizine",
+      "insulin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has hypertension, epilepsy, asthma. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0020",
+    "name": "Patient_20",
+    "date_of_birth": "1971-03-06",
+    "age": 55,
+    "gender": "Female",
+    "blood_type": "O+",
+    "conditions": [
+      "Allergic Rhinitis",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "gabapentin",
+      "aspirin",
+      "lisinopril",
+      "metformin"
+    ],
+    "allergies": [],
+    "notes": "Patient has allergic rhinitis, chronic pain. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0021",
+    "name": "Patient_21",
+    "date_of_birth": "1984-09-26",
+    "age": 41,
+    "gender": "Female",
+    "blood_type": "O-",
+    "conditions": [
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "prednisone"
+    ],
+    "allergies": [],
+    "notes": "Patient has hypothyroidism. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0022",
+    "name": "Patient_22",
+    "date_of_birth": "1957-11-01",
+    "age": 68,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "Epilepsy",
+      "Heart Failure",
+      "Asthma",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "metformin",
+      "atorvastatin",
+      "prednisone",
+      "furosemide",
+      "cetirizine"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has epilepsy, heart failure, asthma, chronic pain. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0023",
+    "name": "Patient_23",
+    "date_of_birth": "1979-08-01",
+    "age": 46,
+    "gender": "Female",
+    "blood_type": "O-",
+    "conditions": [
+      "Hypothyroidism",
+      "Anxiety",
+      "Depression",
+      "GERD"
+    ],
+    "current_medications": [
+      "sertraline",
+      "ibuprofen"
+    ],
+    "allergies": [],
+    "notes": "Patient has hypothyroidism, anxiety, depression, gerd. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0024",
+    "name": "Patient_24",
+    "date_of_birth": "1966-12-02",
+    "age": 59,
+    "gender": "Female",
+    "blood_type": "A+",
+    "conditions": [
+      "Anxiety"
+    ],
+    "current_medications": [
+      "gabapentin"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has anxiety. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0025",
+    "name": "Patient_25",
+    "date_of_birth": "2005-11-17",
+    "age": 20,
+    "gender": "Male",
+    "blood_type": "A+",
+    "conditions": [
+      "COPD",
+      "Heart Failure",
+      "Arthritis",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "metformin",
+      "cetirizine",
+      "lisinopril",
+      "ibuprofen",
+      "furosemide"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has copd, heart failure, arthritis, hypothyroidism. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0026",
+    "name": "Patient_26",
+    "date_of_birth": "1946-11-21",
+    "age": 79,
+    "gender": "Female",
+    "blood_type": "B+",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Epilepsy",
+      "Hypothyroidism",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "insulin",
+      "acetaminophen",
+      "albuterol"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has atrial fibrillation, epilepsy, hypothyroidism, arthritis. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0027",
+    "name": "Patient_27",
+    "date_of_birth": "1963-09-15",
+    "age": 62,
+    "gender": "Male",
+    "blood_type": "B-",
+    "conditions": [
+      "Arthritis"
+    ],
+    "current_medications": [
+      "atorvastatin"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has arthritis. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0028",
+    "name": "Patient_28",
+    "date_of_birth": "1980-11-24",
+    "age": 45,
+    "gender": "Male",
+    "blood_type": "A-",
+    "conditions": [
+      "COPD",
+      "High Cholesterol",
+      "Atrial Fibrillation",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "acetaminophen"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has copd, high cholesterol, atrial fibrillation, arthritis. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0029",
+    "name": "Patient_29",
+    "date_of_birth": "1970-03-20",
+    "age": 56,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypothyroidism",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "acetaminophen"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has type 2 diabetes, hypothyroidism, chronic pain. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0030",
+    "name": "Patient_30",
+    "date_of_birth": "1993-11-30",
+    "age": 32,
+    "gender": "Female",
+    "blood_type": "O-",
+    "conditions": [
+      "High Cholesterol",
+      "Heart Failure",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "metoprolol",
+      "aspirin",
+      "sertraline"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has high cholesterol, heart failure, arthritis. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0031",
+    "name": "Patient_31",
+    "date_of_birth": "1953-11-22",
+    "age": 72,
+    "gender": "Non-binary",
+    "blood_type": "AB-",
+    "conditions": [
+      "COPD",
+      "Atrial Fibrillation",
+      "Type 2 Diabetes"
+    ],
+    "current_medications": [
+      "glipizide",
+      "loratadine",
+      "lisinopril",
+      "omeprazole"
+    ],
+    "allergies": [],
+    "notes": "Patient has copd, atrial fibrillation, type 2 diabetes. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0032",
+    "name": "Patient_32",
+    "date_of_birth": "1995-03-22",
+    "age": 31,
+    "gender": "Male",
+    "blood_type": "O-",
+    "conditions": [
+      "GERD"
+    ],
+    "current_medications": [
+      "metformin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has gerd. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0033",
+    "name": "Patient_33",
+    "date_of_birth": "1970-01-31",
+    "age": 56,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "conditions": [
+      "Heart Failure",
+      "COPD",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "acetaminophen",
+      "prednisone",
+      "gabapentin",
+      "lisinopril"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has heart failure, copd, arthritis. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0034",
+    "name": "Patient_34",
+    "date_of_birth": "1948-01-16",
+    "age": 78,
+    "gender": "Non-binary",
+    "blood_type": "B-",
+    "conditions": [
+      "Allergic Rhinitis",
+      "Hypertension",
+      "COPD",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "atorvastatin",
+      "lisinopril"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has allergic rhinitis, hypertension, copd, high cholesterol. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0035",
+    "name": "Patient_35",
+    "date_of_birth": "1952-09-12",
+    "age": 73,
+    "gender": "Non-binary",
+    "blood_type": "A+",
+    "conditions": [
+      "Chronic Pain",
+      "Depression",
+      "Anxiety",
+      "Heart Failure"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "omeprazole"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has chronic pain, depression, anxiety, heart failure. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0036",
+    "name": "Patient_36",
+    "date_of_birth": "1955-12-23",
+    "age": 70,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Arthritis",
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "loratadine",
+      "atorvastatin",
+      "glipizide",
+      "omeprazole",
+      "gabapentin"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has type 2 diabetes, arthritis, allergic rhinitis. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0037",
+    "name": "Patient_37",
+    "date_of_birth": "1951-02-10",
+    "age": 75,
+    "gender": "Female",
+    "blood_type": "O+",
+    "conditions": [
+      "Depression",
+      "Anxiety",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "omeprazole"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has depression, anxiety, chronic pain. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0038",
+    "name": "Patient_38",
+    "date_of_birth": "1984-04-05",
+    "age": 41,
+    "gender": "Male",
+    "blood_type": "A-",
+    "conditions": [
+      "Heart Failure",
+      "Arthritis",
+      "Atrial Fibrillation"
+    ],
+    "current_medications": [
+      "furosemide",
+      "metoprolol",
+      "levothyroxine"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has heart failure, arthritis, atrial fibrillation. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0039",
+    "name": "Patient_39",
+    "date_of_birth": "1960-06-12",
+    "age": 65,
+    "gender": "Female",
+    "blood_type": "A-",
+    "conditions": [
+      "Depression",
+      "Chronic Pain",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "prednisone",
+      "albuterol",
+      "omeprazole",
+      "furosemide"
+    ],
+    "allergies": [],
+    "notes": "Patient has depression, chronic pain, epilepsy. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0040",
+    "name": "Patient_40",
+    "date_of_birth": "1955-10-25",
+    "age": 70,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Heart Failure",
+      "GERD",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "aspirin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has heart failure, gerd, arthritis. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0041",
+    "name": "Patient_41",
+    "date_of_birth": "1997-10-31",
+    "age": 28,
+    "gender": "Non-binary",
+    "blood_type": "B-",
+    "conditions": [
+      "Chronic Pain",
+      "Heart Failure",
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "metformin",
+      "warfarin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has chronic pain, heart failure, allergic rhinitis. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0042",
+    "name": "Patient_42",
+    "date_of_birth": "1962-01-27",
+    "age": 64,
+    "gender": "Non-binary",
+    "blood_type": "A-",
+    "conditions": [
+      "Asthma"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "omeprazole",
+      "loratadine"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has asthma. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0043",
+    "name": "Patient_43",
+    "date_of_birth": "1992-04-27",
+    "age": 33,
+    "gender": "Female",
+    "blood_type": "B+",
+    "conditions": [
+      "Allergic Rhinitis",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "ibuprofen",
+      "loratadine",
+      "omeprazole",
+      "furosemide",
+      "aspirin"
+    ],
+    "allergies": [],
+    "notes": "Patient has allergic rhinitis, epilepsy. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0044",
+    "name": "Patient_44",
+    "date_of_birth": "1972-04-09",
+    "age": 53,
+    "gender": "Male",
+    "blood_type": "B-",
+    "conditions": [
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "furosemide",
+      "sertraline",
+      "albuterol",
+      "metformin"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has chronic pain. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0045",
+    "name": "Patient_45",
+    "date_of_birth": "2001-08-10",
+    "age": 24,
+    "gender": "Male",
+    "blood_type": "B-",
+    "conditions": [
+      "GERD"
+    ],
+    "current_medications": [
+      "albuterol",
+      "ibuprofen"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has gerd. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0046",
+    "name": "Patient_46",
+    "date_of_birth": "1954-05-06",
+    "age": 71,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "conditions": [
+      "GERD"
+    ],
+    "current_medications": [
+      "acetaminophen",
+      "sertraline",
+      "atorvastatin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has gerd. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0047",
+    "name": "Patient_47",
+    "date_of_birth": "1979-07-19",
+    "age": 46,
+    "gender": "Male",
+    "blood_type": "B-",
+    "conditions": [
+      "High Cholesterol",
+      "Depression",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "metoprolol",
+      "insulin",
+      "albuterol",
+      "sertraline",
+      "gabapentin"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has high cholesterol, depression, hypothyroidism. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0048",
+    "name": "Patient_48",
+    "date_of_birth": "2000-03-04",
+    "age": 26,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "conditions": [
+      "Chronic Pain",
+      "Heart Failure",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "omeprazole"
+    ],
+    "allergies": [],
+    "notes": "Patient has chronic pain, heart failure, hypothyroidism. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0049",
+    "name": "Patient_49",
+    "date_of_birth": "1981-05-20",
+    "age": 44,
+    "gender": "Non-binary",
+    "blood_type": "B-",
+    "conditions": [
+      "Depression",
+      "Anxiety",
+      "Arthritis",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "furosemide",
+      "ibuprofen",
+      "metformin",
+      "acetaminophen"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has depression, anxiety, arthritis, high cholesterol. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0050",
+    "name": "Patient_50",
+    "date_of_birth": "1955-11-21",
+    "age": 70,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Hypertension",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "sertraline",
+      "insulin",
+      "aspirin",
+      "gabapentin",
+      "levothyroxine"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has type 2 diabetes, hypertension, hypothyroidism. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0051",
+    "name": "Patient_51",
+    "date_of_birth": "1949-10-18",
+    "age": 76,
+    "gender": "Male",
+    "blood_type": "O-",
+    "conditions": [
+      "GERD",
+      "Atrial Fibrillation",
+      "Hypertension",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "acetaminophen",
+      "omeprazole",
+      "loratadine",
+      "levothyroxine",
+      "gabapentin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has gerd, atrial fibrillation, hypertension, epilepsy. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0052",
+    "name": "Patient_52",
+    "date_of_birth": "1968-02-12",
+    "age": 58,
+    "gender": "Non-binary",
+    "blood_type": "AB+",
+    "conditions": [
+      "Arthritis",
+      "Hypothyroidism",
+      "High Cholesterol",
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "metformin",
+      "omeprazole",
+      "lisinopril"
+    ],
+    "allergies": [],
+    "notes": "Patient has arthritis, hypothyroidism, high cholesterol, allergic rhinitis. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0053",
+    "name": "Patient_53",
+    "date_of_birth": "2002-06-25",
+    "age": 23,
+    "gender": "Non-binary",
+    "blood_type": "AB+",
+    "conditions": [
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "lisinopril",
+      "sertraline",
+      "ibuprofen"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has allergic rhinitis. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0054",
+    "name": "Patient_54",
+    "date_of_birth": "1994-06-07",
+    "age": 31,
+    "gender": "Male",
+    "blood_type": "A-",
+    "conditions": [
+      "Hypertension",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "gabapentin",
+      "sertraline",
+      "metformin",
+      "loratadine"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has hypertension, hypothyroidism. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0055",
+    "name": "Patient_55",
+    "date_of_birth": "1953-10-19",
+    "age": 72,
+    "gender": "Male",
+    "blood_type": "A-",
+    "conditions": [
+      "Heart Failure",
+      "GERD",
+      "Atrial Fibrillation"
+    ],
+    "current_medications": [
+      "cetirizine",
+      "atorvastatin",
+      "metoprolol",
+      "lisinopril",
+      "glipizide"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has heart failure, gerd, atrial fibrillation. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0056",
+    "name": "Patient_56",
+    "date_of_birth": "1974-05-04",
+    "age": 51,
+    "gender": "Female",
+    "blood_type": "O-",
+    "conditions": [
+      "COPD"
+    ],
+    "current_medications": [
+      "sertraline"
+    ],
+    "allergies": [],
+    "notes": "Patient has copd. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0057",
+    "name": "Patient_57",
+    "date_of_birth": "1946-09-22",
+    "age": 79,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Allergic Rhinitis",
+      "Asthma"
+    ],
+    "current_medications": [
+      "glipizide",
+      "metoprolol",
+      "aspirin"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has allergic rhinitis, asthma. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0058",
+    "name": "Patient_58",
+    "date_of_birth": "1980-05-28",
+    "age": 45,
+    "gender": "Male",
+    "blood_type": "B-",
+    "conditions": [
+      "High Cholesterol",
+      "Hypertension",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "atorvastatin",
+      "metoprolol",
+      "loratadine"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has high cholesterol, hypertension, epilepsy. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0059",
+    "name": "Patient_59",
+    "date_of_birth": "1976-10-21",
+    "age": 49,
+    "gender": "Female",
+    "blood_type": "AB-",
+    "conditions": [
+      "Hypothyroidism",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "cetirizine"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has hypothyroidism, high cholesterol. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0060",
+    "name": "Patient_60",
+    "date_of_birth": "1942-03-31",
+    "age": 84,
+    "gender": "Non-binary",
+    "blood_type": "B-",
+    "conditions": [
+      "COPD",
+      "Atrial Fibrillation"
+    ],
+    "current_medications": [
+      "insulin",
+      "glipizide",
+      "albuterol"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has copd, atrial fibrillation. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0061",
+    "name": "Patient_61",
+    "date_of_birth": "1951-03-24",
+    "age": 75,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "Depression",
+      "Hypertension",
+      "COPD",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "gabapentin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has depression, hypertension, copd, high cholesterol. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0062",
+    "name": "Patient_62",
+    "date_of_birth": "2003-12-31",
+    "age": 22,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "sertraline",
+      "aspirin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has high cholesterol. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0063",
+    "name": "Patient_63",
+    "date_of_birth": "2007-07-08",
+    "age": 18,
+    "gender": "Non-binary",
+    "blood_type": "AB+",
+    "conditions": [
+      "Depression",
+      "Anxiety"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "insulin",
+      "gabapentin",
+      "furosemide"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has depression, anxiety. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0064",
+    "name": "Patient_64",
+    "date_of_birth": "1994-04-28",
+    "age": 31,
+    "gender": "Male",
+    "blood_type": "O-",
+    "conditions": [
+      "High Cholesterol",
+      "Arthritis",
+      "Heart Failure"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "metoprolol",
+      "prednisone"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has high cholesterol, arthritis, heart failure. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0065",
+    "name": "Patient_65",
+    "date_of_birth": "1954-01-08",
+    "age": 72,
+    "gender": "Male",
+    "blood_type": "A+",
+    "conditions": [
+      "Epilepsy",
+      "Asthma",
+      "Hypertension",
+      "Anxiety"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "atorvastatin",
+      "sertraline",
+      "omeprazole"
+    ],
+    "allergies": [],
+    "notes": "Patient has epilepsy, asthma, hypertension, anxiety. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0066",
+    "name": "Patient_66",
+    "date_of_birth": "1952-09-15",
+    "age": 73,
+    "gender": "Female",
+    "blood_type": "A-",
+    "conditions": [
+      "Epilepsy",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "omeprazole",
+      "metoprolol",
+      "lisinopril",
+      "cetirizine"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has epilepsy, hypothyroidism. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0067",
+    "name": "Patient_67",
+    "date_of_birth": "1947-11-29",
+    "age": 78,
+    "gender": "Male",
+    "blood_type": "A+",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Hypertension",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "prednisone",
+      "metformin",
+      "warfarin",
+      "cetirizine",
+      "metoprolol"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has atrial fibrillation, hypertension, arthritis. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0068",
+    "name": "Patient_68",
+    "date_of_birth": "1958-10-18",
+    "age": 67,
+    "gender": "Non-binary",
+    "blood_type": "A-",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Anxiety",
+      "Epilepsy",
+      "Hypertension"
+    ],
+    "current_medications": [
+      "furosemide",
+      "lisinopril",
+      "cetirizine",
+      "insulin"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has type 2 diabetes, anxiety, epilepsy, hypertension. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0069",
+    "name": "Patient_69",
+    "date_of_birth": "1948-09-16",
+    "age": 77,
+    "gender": "Female",
+    "blood_type": "O-",
+    "conditions": [
+      "Depression",
+      "GERD",
+      "Atrial Fibrillation",
+      "COPD"
+    ],
+    "current_medications": [
+      "albuterol",
+      "metformin",
+      "amlodipine"
+    ],
+    "allergies": [],
+    "notes": "Patient has depression, gerd, atrial fibrillation, copd. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0070",
+    "name": "Patient_70",
+    "date_of_birth": "1982-10-01",
+    "age": 43,
+    "gender": "Female",
+    "blood_type": "O-",
+    "conditions": [
+      "Chronic Pain",
+      "Anxiety",
+      "Asthma",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "sertraline",
+      "omeprazole",
+      "insulin",
+      "glipizide",
+      "loratadine"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has chronic pain, anxiety, asthma, epilepsy. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0071",
+    "name": "Patient_71",
+    "date_of_birth": "1990-12-06",
+    "age": 35,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Arthritis",
+      "Type 2 Diabetes",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "aspirin"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has atrial fibrillation, arthritis, type 2 diabetes, hypothyroidism. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0072",
+    "name": "Patient_72",
+    "date_of_birth": "1960-07-15",
+    "age": 65,
+    "gender": "Female",
+    "blood_type": "A-",
+    "conditions": [
+      "Hypertension"
+    ],
+    "current_medications": [
+      "lisinopril",
+      "sertraline",
+      "levothyroxine"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has hypertension. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0073",
+    "name": "Patient_73",
+    "date_of_birth": "1955-06-27",
+    "age": 70,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "Allergic Rhinitis",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "furosemide",
+      "cetirizine"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has allergic rhinitis, hypothyroidism. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0074",
+    "name": "Patient_74",
+    "date_of_birth": "1942-11-08",
+    "age": 83,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "conditions": [
+      "Arthritis",
+      "GERD"
+    ],
+    "current_medications": [
+      "prednisone",
+      "omeprazole",
+      "metoprolol",
+      "insulin",
+      "lisinopril"
+    ],
+    "allergies": [],
+    "notes": "Patient has arthritis, gerd. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0075",
+    "name": "Patient_75",
+    "date_of_birth": "1959-01-10",
+    "age": 67,
+    "gender": "Non-binary",
+    "blood_type": "AB-",
+    "conditions": [
+      "Chronic Pain",
+      "Heart Failure",
+      "Atrial Fibrillation",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "prednisone",
+      "sertraline",
+      "insulin",
+      "warfarin"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has chronic pain, heart failure, atrial fibrillation, high cholesterol. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0076",
+    "name": "Patient_76",
+    "date_of_birth": "1948-09-05",
+    "age": 77,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Asthma",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "prednisone",
+      "cetirizine",
+      "glipizide",
+      "atorvastatin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has asthma, arthritis. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0077",
+    "name": "Patient_77",
+    "date_of_birth": "2002-06-17",
+    "age": 23,
+    "gender": "Female",
+    "blood_type": "A+",
+    "conditions": [
+      "Arthritis",
+      "Hypothyroidism",
+      "Atrial Fibrillation"
+    ],
+    "current_medications": [
+      "insulin",
+      "prednisone",
+      "metoprolol"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has arthritis, hypothyroidism, atrial fibrillation. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0078",
+    "name": "Patient_78",
+    "date_of_birth": "1956-10-07",
+    "age": 69,
+    "gender": "Non-binary",
+    "blood_type": "O-",
+    "conditions": [
+      "GERD",
+      "Chronic Pain",
+      "Hypothyroidism"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "loratadine",
+      "cetirizine",
+      "levothyroxine"
+    ],
+    "allergies": [],
+    "notes": "Patient has gerd, chronic pain, hypothyroidism. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0079",
+    "name": "Patient_79",
+    "date_of_birth": "1964-10-21",
+    "age": 61,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "GERD"
+    ],
+    "current_medications": [
+      "albuterol",
+      "acetaminophen",
+      "metformin",
+      "ibuprofen",
+      "sertraline"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has gerd. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0080",
+    "name": "Patient_80",
+    "date_of_birth": "1993-01-20",
+    "age": 33,
+    "gender": "Female",
+    "blood_type": "A-",
+    "conditions": [
+      "Type 2 Diabetes",
+      "Atrial Fibrillation",
+      "Hypertension"
+    ],
+    "current_medications": [
+      "metoprolol",
+      "levothyroxine",
+      "glipizide"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has type 2 diabetes, atrial fibrillation, hypertension. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0081",
+    "name": "Patient_81",
+    "date_of_birth": "1992-12-05",
+    "age": 33,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "GERD",
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "glipizide"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has gerd, chronic pain. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0082",
+    "name": "Patient_82",
+    "date_of_birth": "1945-01-13",
+    "age": 81,
+    "gender": "Female",
+    "blood_type": "A-",
+    "conditions": [
+      "GERD"
+    ],
+    "current_medications": [
+      "ibuprofen",
+      "aspirin",
+      "omeprazole",
+      "gabapentin"
+    ],
+    "allergies": [],
+    "notes": "Patient has gerd. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0083",
+    "name": "Patient_83",
+    "date_of_birth": "1998-07-12",
+    "age": 27,
+    "gender": "Male",
+    "blood_type": "O-",
+    "conditions": [
+      "Depression",
+      "Epilepsy",
+      "Anxiety"
+    ],
+    "current_medications": [
+      "gabapentin",
+      "warfarin",
+      "metformin",
+      "loratadine"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has depression, epilepsy, anxiety. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0084",
+    "name": "Patient_84",
+    "date_of_birth": "1961-09-22",
+    "age": 64,
+    "gender": "Non-binary",
+    "blood_type": "B+",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Epilepsy",
+      "Asthma"
+    ],
+    "current_medications": [
+      "loratadine",
+      "metformin",
+      "levothyroxine"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has atrial fibrillation, epilepsy, asthma. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0085",
+    "name": "Patient_85",
+    "date_of_birth": "1944-06-05",
+    "age": 81,
+    "gender": "Non-binary",
+    "blood_type": "O+",
+    "conditions": [
+      "Heart Failure"
+    ],
+    "current_medications": [
+      "prednisone",
+      "amlodipine"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has heart failure. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0086",
+    "name": "Patient_86",
+    "date_of_birth": "1942-05-02",
+    "age": 83,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Chronic Pain"
+    ],
+    "current_medications": [
+      "amlodipine",
+      "gabapentin",
+      "prednisone",
+      "furosemide",
+      "atorvastatin"
+    ],
+    "allergies": [
+      "Ibuprofen"
+    ],
+    "notes": "Patient has chronic pain. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0087",
+    "name": "Patient_87",
+    "date_of_birth": "1963-10-16",
+    "age": 62,
+    "gender": "Male",
+    "blood_type": "B+",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "current_medications": [
+      "loratadine",
+      "insulin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has type 2 diabetes. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0088",
+    "name": "Patient_88",
+    "date_of_birth": "1987-07-03",
+    "age": 38,
+    "gender": "Non-binary",
+    "blood_type": "B+",
+    "conditions": [
+      "Heart Failure",
+      "Epilepsy",
+      "Type 2 Diabetes",
+      "GERD"
+    ],
+    "current_medications": [
+      "lisinopril",
+      "prednisone"
+    ],
+    "allergies": [
+      "Latex"
+    ],
+    "notes": "Patient has heart failure, epilepsy, type 2 diabetes, gerd. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0089",
+    "name": "Patient_89",
+    "date_of_birth": "1970-05-31",
+    "age": 55,
+    "gender": "Female",
+    "blood_type": "O+",
+    "conditions": [
+      "GERD",
+      "Chronic Pain",
+      "Arthritis",
+      "Allergic Rhinitis"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "gabapentin",
+      "acetaminophen",
+      "cetirizine"
+    ],
+    "allergies": [],
+    "notes": "Patient has gerd, chronic pain, arthritis, allergic rhinitis. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0090",
+    "name": "Patient_90",
+    "date_of_birth": "2006-07-18",
+    "age": 19,
+    "gender": "Non-binary",
+    "blood_type": "O-",
+    "conditions": [
+      "Asthma",
+      "GERD",
+      "COPD",
+      "Depression"
+    ],
+    "current_medications": [
+      "lisinopril"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has asthma, gerd, copd, depression. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0091",
+    "name": "Patient_91",
+    "date_of_birth": "1989-10-10",
+    "age": 36,
+    "gender": "Male",
+    "blood_type": "AB-",
+    "conditions": [
+      "Hypothyroidism",
+      "Hypertension"
+    ],
+    "current_medications": [
+      "albuterol",
+      "insulin"
+    ],
+    "allergies": [
+      "Sulfa drugs"
+    ],
+    "notes": "Patient has hypothyroidism, hypertension. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0092",
+    "name": "Patient_92",
+    "date_of_birth": "1975-07-21",
+    "age": 50,
+    "gender": "Non-binary",
+    "blood_type": "B-",
+    "conditions": [
+      "Hypothyroidism",
+      "Hypertension",
+      "COPD",
+      "High Cholesterol"
+    ],
+    "current_medications": [
+      "gabapentin",
+      "levothyroxine",
+      "insulin",
+      "metformin"
+    ],
+    "allergies": [],
+    "notes": "Patient has hypothyroidism, hypertension, copd, high cholesterol. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0093",
+    "name": "Patient_93",
+    "date_of_birth": "1971-12-05",
+    "age": 54,
+    "gender": "Non-binary",
+    "blood_type": "O+",
+    "conditions": [
+      "Heart Failure",
+      "Arthritis"
+    ],
+    "current_medications": [
+      "amlodipine"
+    ],
+    "allergies": [
+      "Aspirin"
+    ],
+    "notes": "Patient has heart failure, arthritis. Currently on 1 medications."
+  },
+  {
+    "patient_id": "P0094",
+    "name": "Patient_94",
+    "date_of_birth": "1961-02-09",
+    "age": 65,
+    "gender": "Female",
+    "blood_type": "A+",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Allergic Rhinitis",
+      "Heart Failure"
+    ],
+    "current_medications": [
+      "omeprazole",
+      "glipizide",
+      "aspirin",
+      "lisinopril",
+      "prednisone"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has atrial fibrillation, allergic rhinitis, heart failure. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0095",
+    "name": "Patient_95",
+    "date_of_birth": "1957-12-26",
+    "age": 68,
+    "gender": "Female",
+    "blood_type": "A+",
+    "conditions": [
+      "Arthritis",
+      "Type 2 Diabetes"
+    ],
+    "current_medications": [
+      "metformin",
+      "ibuprofen",
+      "loratadine",
+      "warfarin",
+      "albuterol"
+    ],
+    "allergies": [],
+    "notes": "Patient has arthritis, type 2 diabetes. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0096",
+    "name": "Patient_96",
+    "date_of_birth": "1975-09-11",
+    "age": 50,
+    "gender": "Non-binary",
+    "blood_type": "AB+",
+    "conditions": [
+      "Depression",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "omeprazole",
+      "metoprolol",
+      "levothyroxine",
+      "acetaminophen"
+    ],
+    "allergies": [
+      "Codeine"
+    ],
+    "notes": "Patient has depression, epilepsy. Currently on 4 medications."
+  },
+  {
+    "patient_id": "P0097",
+    "name": "Patient_97",
+    "date_of_birth": "1985-09-10",
+    "age": 40,
+    "gender": "Non-binary",
+    "blood_type": "A-",
+    "conditions": [
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "albuterol",
+      "acetaminophen"
+    ],
+    "allergies": [],
+    "notes": "Patient has epilepsy. Currently on 2 medications."
+  },
+  {
+    "patient_id": "P0098",
+    "name": "Patient_98",
+    "date_of_birth": "2003-10-10",
+    "age": 22,
+    "gender": "Non-binary",
+    "blood_type": "A-",
+    "conditions": [
+      "Hypothyroidism",
+      "GERD",
+      "Depression",
+      "COPD"
+    ],
+    "current_medications": [
+      "metformin",
+      "aspirin",
+      "ibuprofen",
+      "warfarin",
+      "gabapentin"
+    ],
+    "allergies": [],
+    "notes": "Patient has hypothyroidism, gerd, depression, copd. Currently on 5 medications."
+  },
+  {
+    "patient_id": "P0099",
+    "name": "Patient_99",
+    "date_of_birth": "2005-07-06",
+    "age": 20,
+    "gender": "Male",
+    "blood_type": "A-",
+    "conditions": [
+      "Atrial Fibrillation",
+      "Epilepsy"
+    ],
+    "current_medications": [
+      "levothyroxine",
+      "amlodipine",
+      "lisinopril"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "notes": "Patient has atrial fibrillation, epilepsy. Currently on 3 medications."
+  },
+  {
+    "patient_id": "P0100",
+    "name": "Patient_100",
+    "date_of_birth": "1982-12-20",
+    "age": 43,
+    "gender": "Female",
+    "blood_type": "B-",
+    "conditions": [
+      "Hypothyroidism",
+      "Chronic Pain",
+      "Epilepsy",
+      "Asthma"
+    ],
+    "current_medications": [
+      "sertraline"
+    ],
+    "allergies": [],
+    "notes": "Patient has hypothyroidism, chronic pain, epilepsy, asthma. Currently on 1 medications."
+  }
+]

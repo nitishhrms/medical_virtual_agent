@@ -1,0 +1,360 @@
+[
+  {
+    "drug1": "aspirin",
+    "drug2": "warfarin",
+    "severity": "major",
+    "description": "Aspirin inhibits platelet aggregation and can displace warfarin from plasma proteins, significantly increasing bleeding risk.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "ibuprofen",
+    "drug2": "aspirin",
+    "severity": "moderate",
+    "description": "Potential interaction between ibuprofen and aspirin. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "metformin",
+    "drug2": "alcohol",
+    "severity": "moderate",
+    "description": "Potential interaction between metformin and alcohol. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "warfarin",
+    "drug2": "ibuprofen",
+    "severity": "moderate",
+    "description": "Potential interaction between warfarin and ibuprofen. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "lisinopril",
+    "drug2": "potassium",
+    "severity": "moderate",
+    "description": "ACE inhibitors like lisinopril increase potassium retention; adding potassium supplements can cause hyperkalemia.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "simvastatin",
+    "drug2": "amiodarone",
+    "severity": "moderate",
+    "description": "Potential interaction between simvastatin and amiodarone. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "clopidogrel",
+    "drug2": "omeprazole",
+    "severity": "moderate",
+    "description": "Omeprazole inhibits CYP2C19, reducing conversion of clopidogrel to its active form and decreasing antiplatelet effect.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "fluoxetine",
+    "drug2": "tramadol",
+    "severity": "major",
+    "description": "Fluoxetine inhibits CYP2D6, increasing tramadol levels. Both lower seizure threshold and risk serotonin syndrome.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "sertraline",
+    "drug2": "tramadol",
+    "severity": "major",
+    "description": "Combination increases serotonin syndrome risk and can lower the seizure threshold.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "alprazolam",
+    "drug2": "oxycodone",
+    "severity": "major",
+    "description": "CNS depressant combination can cause profound sedation, respiratory depression, and death.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "clonazepam",
+    "drug2": "alcohol",
+    "severity": "moderate",
+    "description": "Potential interaction between clonazepam and alcohol. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "digoxin",
+    "drug2": "amiodarone",
+    "severity": "moderate",
+    "description": "Potential interaction between digoxin and amiodarone. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "metformin",
+    "drug2": "ibuprofen",
+    "severity": "moderate",
+    "description": "Potential interaction between metformin and ibuprofen. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "lisinopril",
+    "drug2": "ibuprofen",
+    "severity": "moderate",
+    "description": "Potential interaction between lisinopril and ibuprofen. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "atorvastatin",
+    "drug2": "clarithromycin",
+    "severity": "major",
+    "description": "Clarithromycin inhibits CYP3A4, dramatically increasing atorvastatin levels and risk of myopathy.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "simvastatin",
+    "drug2": "gemfibrozil",
+    "severity": "moderate",
+    "description": "Potential interaction between simvastatin and gemfibrozil. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "warfarin",
+    "drug2": "acetaminophen",
+    "severity": "moderate",
+    "description": "Potential interaction between warfarin and acetaminophen. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "metoprolol",
+    "drug2": "verapamil",
+    "severity": "major",
+    "description": "Combined use can cause severe bradycardia, heart block, or cardiac arrest due to additive negative chronotropic effects.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "carvedilol",
+    "drug2": "digoxin",
+    "severity": "moderate",
+    "description": "Carvedilol increases digoxin levels by up to 60% in some patients; monitor for digoxin toxicity.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "furosemide",
+    "drug2": "gentamicin",
+    "severity": "major",
+    "description": "Both are ototoxic; combination significantly increases risk of hearing loss and nephrotoxicity.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "hydrochlorothiazide",
+    "drug2": "lithium",
+    "severity": "major",
+    "description": "Thiazide diuretics reduce renal lithium excretion, leading to lithium toxicity.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "ciprofloxacin",
+    "drug2": "warfarin",
+    "severity": "major",
+    "description": "Ciprofloxacin inhibits CYP1A2 and reduces gut flora that synthesize vitamin K, increasing warfarin effect.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "doxycycline",
+    "drug2": "antacids",
+    "severity": "moderate",
+    "description": "Potential interaction between doxycycline and antacids. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "prednisone",
+    "drug2": "ibuprofen",
+    "severity": "moderate",
+    "description": "Potential interaction between prednisone and ibuprofen. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "tramadol",
+    "drug2": "ssri",
+    "severity": "moderate",
+    "description": "Potential interaction between tramadol and ssri. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "clopidogrel",
+    "drug2": "aspirin",
+    "severity": "moderate",
+    "description": "Potential interaction between clopidogrel and aspirin. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "losartan",
+    "drug2": "potassium",
+    "severity": "moderate",
+    "description": "ARBs like losartan increase potassium retention; adding potassium supplements can cause hyperkalemia.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "spironolactone",
+    "drug2": "lisinopril",
+    "severity": "moderate",
+    "description": "Potential interaction between spironolactone and lisinopril. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "gabapentin",
+    "drug2": "oxycodone",
+    "severity": "major",
+    "description": "CNS depressant combination increases risk of sedation, respiratory depression, and overdose death.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "cyclobenzaprine",
+    "drug2": "alcohol",
+    "severity": "moderate",
+    "description": "Potential interaction between cyclobenzaprine and alcohol. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "cetirizine",
+    "drug2": "alcohol",
+    "severity": "moderate",
+    "description": "Potential interaction between cetirizine and alcohol. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "alprazolam",
+    "drug2": "alcohol",
+    "severity": "moderate",
+    "description": "Potential interaction between alprazolam and alcohol. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "morphine",
+    "drug2": "alcohol",
+    "severity": "moderate",
+    "description": "Potential interaction between morphine and alcohol. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "hydrocodone",
+    "drug2": "alprazolam",
+    "severity": "moderate",
+    "description": "Potential interaction between hydrocodone and alprazolam. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "levothyroxine",
+    "drug2": "calcium",
+    "severity": "moderate",
+    "description": "Potential interaction between levothyroxine and calcium. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "levothyroxine",
+    "drug2": "iron",
+    "severity": "moderate",
+    "description": "Potential interaction between levothyroxine and iron. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "metformin",
+    "drug2": "contrast_dye",
+    "severity": "moderate",
+    "description": "Potential interaction between metformin and contrast_dye. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "warfarin",
+    "drug2": "vitamin_k",
+    "severity": "moderate",
+    "description": "Potential interaction between warfarin and vitamin_k. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "fluoxetine",
+    "drug2": "maoi",
+    "severity": "contraindicated",
+    "description": "Life-threatening serotonin syndrome. Fluoxetine must not be used within 14 days of an MAOI.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "sertraline",
+    "drug2": "maoi",
+    "severity": "moderate",
+    "description": "Potential interaction between sertraline and maoi. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "tizanidine",
+    "drug2": "ciprofloxacin",
+    "severity": "moderate",
+    "description": "Potential interaction between tizanidine and ciprofloxacin. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "sildenafil",
+    "drug2": "nitrates",
+    "severity": "moderate",
+    "description": "Potential interaction between sildenafil and nitrates. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "amoxicillin",
+    "drug2": "warfarin",
+    "severity": "moderate",
+    "description": "Antibiotics reduce gut flora producing vitamin K, potentially enhancing warfarin's anticoagulant effect.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "azithromycin",
+    "drug2": "warfarin",
+    "severity": "moderate",
+    "description": "Azithromycin can increase warfarin effect through gut flora alteration and possible CYP inhibition.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "escitalopram",
+    "drug2": "tramadol",
+    "severity": "major",
+    "description": "Increased serotonin syndrome risk and additive seizure risk.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "verapamil",
+    "drug2": "simvastatin",
+    "severity": "moderate",
+    "description": "Potential interaction between verapamil and simvastatin. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "diltiazem",
+    "drug2": "simvastatin",
+    "severity": "major",
+    "description": "Diltiazem inhibits CYP3A4; simvastatin dose should not exceed 10mg when combined.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "rosuvastatin",
+    "drug2": "gemfibrozil",
+    "severity": "moderate",
+    "description": "Potential interaction between rosuvastatin and gemfibrozil. Consult a pharmacist.",
+    "source": "manual"
+  },
+  {
+    "drug1": "naproxen",
+    "drug2": "warfarin",
+    "severity": "major",
+    "description": "NSAIDs inhibit platelet function and may raise warfarin levels, increasing bleeding risk.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "celecoxib",
+    "drug2": "warfarin",
+    "severity": "major",
+    "description": "Celecoxib inhibits CYP2C9-mediated warfarin metabolism; increases anticoagulant effect and bleeding risk.",
+    "source": "clinical_reference"
+  },
+  {
+    "drug1": "diclofenac",
+    "drug2": "lithium",
+    "severity": "major",
+    "description": "NSAIDs reduce renal lithium clearance, increasing lithium blood levels and toxicity risk.",
+    "source": "clinical_reference"
+  }
+
+]
